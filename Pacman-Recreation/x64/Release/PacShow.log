@@ -1,0 +1,318 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (PacShow.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Pacman-Recreation.cpp
+D:\Git\Pacman-Recreation\PacShow\maze.h(135,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\maze.h(135,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\maze.h(151,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\maze.h(151,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,38): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,38): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,38): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,38): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,26): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,26): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,26): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(31,26): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(68,31): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(68,31): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(68,31): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(68,31): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(68,31): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(69,31): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(69,31): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(69,31): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(69,31): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(69,31): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(75,25): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(75,25): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(75,25): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(75,25): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(75,25): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(76,25): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(76,25): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(76,25): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(76,25): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(76,25): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(80,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\targetCalc.h(81,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\gameText.h(52,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\gameText.h(88,10): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\fruit.h(110,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\fruit.h(117,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,43): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,43): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,43): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,43): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,35): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,35): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,35): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\fruit.h(128,35): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\starter.h(100,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\starter.h(100,32): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\starter.h(100,32): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\starter.h(100,32): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\starter.h(100,32): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\starter.h(217,22): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\starter.h(250,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,74): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,74): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,74): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,74): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\ghost.h(49,74):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\starter.h(52,17):
+  	see reference to class template instantiation 'Ghost<Starter>' being compiled
+  	D:\Git\Pacman-Recreation\PacShow\ghost.h(42,7):
+  	while compiling class template member function 'void Ghost<Starter>::reset(void)'
+  		D:\Git\Pacman-Recreation\PacShow\starter.h(361,16):
+  		see the first reference to 'Ghost<Starter>::reset' in 'Starter::resetPacGhost'
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,53): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,53): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,53): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(49,53): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,43): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,43): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,43): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,43): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\ghost.h(309,43):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\ghost.h(307,7):
+  	while compiling class template member function 'void Ghost<Starter>::setGridPosition(int,int)'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(48,19):
+  		see the first reference to 'Ghost<Starter>::setGridPosition' in 'Ghost<Starter>::reset'
+  		D:\Git\Pacman-Recreation\PacShow\starter.h(361,16):
+  		see the first reference to 'Ghost<Starter>::reset' in 'Starter::resetPacGhost'
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,30): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,30): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,30): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(309,30): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,76): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,76): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,76): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,76): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\ghost.h(81,76):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\ghost.h(77,7):
+  	while compiling class template member function 'void Ghost<Starter>::init(void)'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(23,7):
+  		see the first reference to 'Ghost<Starter>::init' in 'Ghost<Starter>::Ghost'
+  		D:\Git\Pacman-Recreation\PacShow\starter.h(52,11):
+  		see the first reference to 'Ghost<Starter>::Ghost' in 'Starter::Starter'
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,48): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,48): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,48): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(81,48): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,63): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,63): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,63): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,63): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\pac.h(331,63):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\starter.h(51,14):
+  	see reference to class template instantiation 'Pac<Starter>' being compiled
+  	D:\Git\Pacman-Recreation\PacShow\pac.h(329,10):
+  	while compiling class template member function 'void Pac<Starter>::setGridPosition(int,int)'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(67,28):
+  		see the first reference to 'Pac<Starter>::setGridPosition' in 'Pac<Starter>::reset'
+  		D:\Git\Pacman-Recreation\PacShow\starter.h(360,13):
+  		see the first reference to 'Pac<Starter>::reset' in 'Starter::resetPacGhost'
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,40): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,40): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,40): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\pac.h(331,40): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(90,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\pac.h(90,41):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\pac.h(86,10):
+  	while compiling class template member function 'void Pac<Starter>::init(void)'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(24,13):
+  		see the first reference to 'Pac<Starter>::init' in 'Pac<Starter>::Pac'
+  		D:\Git\Pacman-Recreation\PacShow\starter.h(51,8):
+  		see the first reference to 'Pac<Starter>::Pac' in 'Starter::Starter'
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(90,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(93,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(93,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(106,1): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\ghost.h(106,1):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\ghost.h(92,7):
+  	while compiling class template member function 'void Ghost<Starter>::loop(void)'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(87,41):
+  		see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(106,1): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\pac.h(106,1):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\pac.h(101,10):
+  	while compiling class template member function 'void Pac<Starter>::loop(void)'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(95,47):
+  		see the first reference to 'Pac<Starter>::loop' in 'Pac<Starter>::init::<lambda_1>::operator ()'
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(329,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\ghost.h(329,11):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\ghost.h(327,7):
+  	while compiling class template member function 'bool Ghost<Starter>::collidToPac(void)'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(240,4):
+  		see the first reference to 'Ghost<Starter>::collidToPac' in 'Ghost<Starter>::animation'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(97,13):
+  		see the first reference to 'Ghost<Starter>::animation' in 'Ghost<Starter>::loop'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(87,41):
+  		see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(330,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Pacman-Recreation.cpp')
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(323,38): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(323,38): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(323,38): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(323,38): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(323,38): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\ghost.h(323,38):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\ghost.h(321,6):
+  	while compiling class template member function 'int Ghost<Starter>::getPosGridY(void)'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(272,3):
+  		see the first reference to 'Ghost<Starter>::getPosGridY' in 'Ghost<Starter>::animation'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(97,13):
+  		see the first reference to 'Ghost<Starter>::animation' in 'Ghost<Starter>::loop'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(87,41):
+  		see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+  
+D:\Git\Pacman-Recreation\PacShow\ghost.h(317,38): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\ghost.h(317,38): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\ghost.h(317,38): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\ghost.h(317,38): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\ghost.h(317,38): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\ghost.h(317,38):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\ghost.h(315,6):
+  	while compiling class template member function 'int Ghost<Starter>::getPosGridX(void)'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(272,3):
+  		see the first reference to 'Ghost<Starter>::getPosGridX' in 'Ghost<Starter>::animation'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(97,13):
+  		see the first reference to 'Ghost<Starter>::animation' in 'Ghost<Starter>::loop'
+  		D:\Git\Pacman-Recreation\PacShow\ghost.h(87,41):
+  		see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(199,43): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\pac.h(199,43): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\pac.h(199,43): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\pac.h(199,43): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\pac.h(199,43): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\pac.h(199,43):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\pac.h(197,9):
+  	while compiling class template member function 'int Pac<Starter>::getPosGridY(void)'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(245,37):
+  		see the first reference to 'Pac<Starter>::getPosGridY' in 'Pac<Starter>::animation'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(108,22):
+  		see the first reference to 'Pac<Starter>::animation' in 'Pac<Starter>::loop'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(95,47):
+  		see the first reference to 'Pac<Starter>::loop' in 'Pac<Starter>::init::<lambda_1>::operator ()'
+  
+D:\Git\Pacman-Recreation\PacShow\pac.h(193,41): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+D:\Git\Pacman-Recreation\PacShow\pac.h(193,41): warning C4244:         with
+D:\Git\Pacman-Recreation\PacShow\pac.h(193,41): warning C4244:         [
+D:\Git\Pacman-Recreation\PacShow\pac.h(193,41): warning C4244:             T=float
+D:\Git\Pacman-Recreation\PacShow\pac.h(193,41): warning C4244:         ]
+  (compiling source file 'Pacman-Recreation.cpp')
+  D:\Git\Pacman-Recreation\PacShow\pac.h(193,41):
+  the template instantiation context (the oldest one first) is
+  	D:\Git\Pacman-Recreation\PacShow\pac.h(191,9):
+  	while compiling class template member function 'int Pac<Starter>::getPosGridX(void)'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(206,9):
+  		see the first reference to 'Pac<Starter>::getPosGridX' in 'Pac<Starter>::animation'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(108,22):
+  		see the first reference to 'Pac<Starter>::animation' in 'Pac<Starter>::loop'
+  		D:\Git\Pacman-Recreation\PacShow\pac.h(95,47):
+  		see the first reference to 'Pac<Starter>::loop' in 'Pac<Starter>::init::<lambda_1>::operator ()'
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 485 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PacShow.vcxproj -> D:\Git\Pacman-Recreation\x64\Release\Pacman-Recreation.exe

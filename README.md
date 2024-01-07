@@ -31,7 +31,7 @@ To run this project, you'll need:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Pacman-CPP-SFML.git
+    git clone https://github.com/ProdiG66/Pacman-Recreation.git
     ```
 
 2. Build the project using your preferred C++ compiler.
